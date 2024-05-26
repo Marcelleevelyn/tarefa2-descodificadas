@@ -1,0 +1,29 @@
+body{
+    background: rgb(118, 86, 146);
+}
+
+div{
+    background-image: url(flor.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    border: 20px solid rgb(139, 109, 185);
+    padding: 10px;
+     margin: auto;
+     text-align: center;
+     margin: auto;
+     margin-top: 100px;
+     box-shadow: inset 5px 5px 15px 2px rgb(106, 60, 150);
+     outline-width: 20px;
+     outline-style: double;
+     outline-color: white;
+   
+}
+p{
+   color: white;
+   font-size: 40px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   padding-top: 300px;
+
+}
